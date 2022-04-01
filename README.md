@@ -1,8 +1,8 @@
-# CKG's LeetCode Collection
+# Get Better at Programming -- CKG's Collection
 
-Outside of being a great humbling experience, LeetCoding is a great way to develop programming skills -- here is my collection of solved problems. 
+Outside of being a humbling experience, learning to code with these tools is a great way to improve programming skills -- here is my collection of solved problems. 
 
-- Each dir represents one LeetCode Question
-- Files in that dir have solutions of varying complexity 
+- Each dir represents one Provider of Problems/Question
+- Files in that dir have various solutions, not all of which are efficient or even good! (but some that might be brilliant) 
 
 
